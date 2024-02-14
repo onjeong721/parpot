@@ -1,0 +1,113 @@
+section#production {
+  display: flex;
+  flex-wrap: wrap;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background-color: #F3F3F3;
+}
+section#production .prd{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  max-width: 1500px;
+  gap: 10px;
+}
+section#production .prd .pt {
+  width: 742px;
+  height: 650px;
+  grid-column: 1;
+  grid-row: 1 / span 2;
+  font-size: 0;
+}
+section#production .prd .pt h2 {
+  
+}
+section#production .prd .pt img {  
+  width: 742px;
+  height: 650px;
+}
+section#production .prd .led {
+  width: 742px;
+  height: 318px;
+  grid-row: 1;
+  grid-column: 2 / span 3;
+  background-color: #333333;
+  gap: 35px;
+}
+section#production .prd .led img {
+  width: 221px;
+  height: 236px;
+}
+section#production .prd .led .ledgroup {
+  
+}
+section#production .prd .led .ledgroup {  
+  gap: 20px;
+}
+section#production .prd .led .ledgroup h2 {
+  font-size: 28px;
+  font-weight: bold;
+}
+section#production .prd .led .ledgroup p {  
+  font-size: 16px;
+  line-height: 28px;
+}
+section#production .prd .led .ledgroup span {
+  display: flex;
+  gap: 10px;
+}
+section#production .prd .led .ledgroup span a {
+  font-size: 16px;
+  color: white;
+  width: 121px;
+  height: 39px;
+  border: 1px solid white;
+  border-radius: 30px;
+  text-align: center;
+  line-height: 39px;
+  box-sizing: border-box;
+}
+section#production .prd .led .ledgroup span a:not(:first-child){
+  background-color: white;
+  color:#333333;
+}
+section#production .prd .greenwall{
+  width: 363px;
+  height: 318px;
+  grid-row: 2;
+  grid-column: 2;
+  background-color: white;
+  gap: 10px;
+}
+section#production .prd .greenwall img{ 
+  width: 147px;
+  height: 211px;
+}
+section#production .prd .greenwall h2{
+
+  font-size: 20px;
+  font-weight: bold;
+}
+section#production .prd .greenwall p{  
+  font-size: 15px;
+}
+section#production .prd .mushroom{
+  width: 363px;
+  height: 318px;
+  grid-row: 2;
+  grid-column: 3;
+  background-color: white;
+  gap: 10px;
+}
+section#production .prd .mushroom img{ 
+  width: 229px;
+  height: 220px;
+}
+section#production .prd .mushroom h2{
+  font-size: 20px;
+  font-weight: bold;
+}
+section#production .prd .mushroom p{  
+  font-size: 15px;
+}

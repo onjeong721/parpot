@@ -1,0 +1,64 @@
+header {
+  position: fixed;
+  margin: 0 auto;
+  width: 100%;
+  background-color: white;
+  top: 0;
+}
+header .wrap {  
+  display: grid;
+  grid-template-columns: auto auto auto;
+  align-items: center;
+}
+header .wrap h1 {
+  text-align: center;
+  font-size: 0;
+  background-image: url(../img/main-logo.png);
+  display: block;
+  width: 400px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+header .wrap ul {
+  display: flex;
+}
+header .wrap ul li {
+  
+}
+header .wrap ul li a {  
+  padding: 0 30px;
+  font-size: 17px;
+  display: block;
+  height: 100%;
+  line-height: 70px;
+  box-sizing: border-box;
+}
+header .wrap span {
+  display: flex;
+}
+header .wrap span a { 
+  display: block;
+  width: 20px;
+  height: 20px;
+  padding: 0 10px;
+}
+header .wrap span a::after { 
+  content: "";
+  display: block;
+  width: 20px;
+  height: 20px;
+  background-image: url(../img/login.svg);
+  background-repeat: no-repeat;
+}
+header .wrap span a:nth-child(2)::after{
+  
+  background-image: url(../img/wishlist.svg);
+}
+header .wrap span a:nth-child(3)::after{
+   background-image: url(../img/search.svg);
+}
+header .wrap span a:nth-child(4)::after{
+  background-image: url(../img/ham.svg);
+  background-size: contain;
+}

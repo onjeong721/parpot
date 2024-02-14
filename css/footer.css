@@ -1,0 +1,66 @@
+footer {
+  
+}
+footer .wrap {
+  gap: 30px;
+  width: 90%;
+  padding-bottom: 20px;
+}
+footer .wrap .up{ 
+  gap: 30px;
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #999;
+  padding-bottom: 20px;
+  box-sizing: border-box;
+}
+footer .wrap .up .address {
+  
+}
+footer .wrap .up .address li {
+  
+}
+footer .wrap .up .address li a {
+  display: block;
+  padding: 0 10px;
+}
+footer .wrap .up .address li:first-child a{
+  padding: 0
+}
+footer .wrap .up .address li a::after{
+  content: "";
+  border-right: 1px solid black;
+  padding-right: 10px;
+}
+footer .wrap .up address {
+  color: #999;
+  line-height: 20px;
+  font-size: 12px;
+}
+footer .wrap .up address .line {
+  
+}
+footer .wrap .up p {  
+  color: #999;
+}
+footer .wrap .up img {
+  width: 62px;
+  height: 56px;
+}
+footer .wrap .link {
+
+  gap: 20px;
+}
+footer .wrap .link li{
+
+}
+footer .wrap .link li a {
+  display: block;
+  padding: ;
+  font-size: 12px;
+  border-bottom: 1px solid #999;
+  color: #333;
+}
+footer .wrap p{
+  color: #ccc;
+}

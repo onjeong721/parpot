@@ -1,0 +1,43 @@
+section#QNA {
+  
+}
+section#QNA .wrap {
+  background-image: url(../img/qnaback.jpg);
+  width: 1906px;
+  height: 600px;
+}
+section#QNA .wrap .qna-txt { 
+  justify-content: center;
+  height: 100%;
+  width: 950px;
+  align-items: center;
+  gap: 50px;
+}
+section#QNA .wrap .qna-txt h2 {
+  
+}
+section#QNA .wrap .qna-txt h3 { 
+  font-size: 40px;
+}
+section#QNA .wrap .qna-txt p {
+  font-size: 20px;
+  text-align: center;
+}
+section#QNA .wrap .qna-txt a {
+  font-size: 22px;
+  display: block;
+  width: 268px;
+  height: 68px;
+  background-color: #ccc;
+  text-align: center;
+  line-height: 68px;
+}
+section#QNA .wrap .qna-txt a::after{
+  content: "";
+  width: 43px;
+  height: 24px;
+  background-image: url(../img/3h.png);
+  display: inline-block;
+  background-size: contain;
+  transform: translate(10px, 8px);
+}

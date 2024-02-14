@@ -1,0 +1,123 @@
+section#story {
+  
+}
+section#story .wrap {  
+  max-width: 1500px;
+  min-height: 1381px;
+}
+section#story .wrap .story-txt {
+  gap: 20px;
+  padding-bottom: 50px;
+  align-items: baseline;
+}
+section#story .wrap .story-txt h2 {
+  
+}
+section#story .wrap .story-txt p {
+  
+  font-size: 20px;
+}
+section#story .wrap .story-atc {
+  gap: 20px;
+  justify-content: space-between;
+}
+section#story .wrap .story-atc .story-AI {
+  width: 433px;
+  height: 559px;
+  display: block;
+}
+section#story .wrap .story-atc .story-AI a {
+  
+}
+section#story .wrap .story-atc .story-AI a img {  
+  width: 433px;
+  height: 434px;
+}
+section#story .wrap .story-atc .story-AI a h3 {
+  
+}
+section#story .wrap .story-atc .story-AI a p {
+  
+}
+section#story .wrap .story-atc .story-home {
+  
+}
+section#story .wrap .story-atc .story-home a {
+  
+}
+section#story .wrap .story-atc .story-home a img {  
+  width: 433px;
+  height: 557px;
+}
+section#story .wrap .story-atc .story-home a h3 {
+  
+}
+section#story .wrap .story-atc .story-home a p {
+  
+}
+section#story .wrap .story-atc .story-organic {
+  
+  max-height: 495px;
+}
+section#story .wrap .story-atc .story-organic a {
+  
+}
+section#story .wrap .story-atc .story-organic a img {  
+  width: 433px;
+  height: 340px;
+}
+section#story .wrap .story-atc .story-organic a h3 {
+  
+}
+section#story .wrap .story-atc .story-organic a p {
+  
+}
+section#story .wrap .story-atc .story-mogreen {
+  transform: translateY(-150px);
+}
+section#story .wrap .story-atc .story-mogreen a {
+  
+}
+section#story .wrap .story-atc .story-mogreen a img { 
+  width: 433px;
+  height: 434px;
+}
+section#story .wrap .story-atc .story-mogreen a h3 {
+  
+}
+section#story .wrap .story-atc .story-mogreen a p {
+  
+}
+section#story .wrap .story-atc .story-page {
+  
+}
+section#story .wrap .story-atc .story-page a {
+  
+}
+section#story .wrap .story-atc .story-page a img {
+  width: 433px;
+  height: 434px;
+}
+section#story .wrap .story-atc .story-page a h3 {
+  
+}
+section#story .wrap .story-atc .story-page a p {
+  
+}
+section#story .wrap .story-atc .story-led {  
+  max-height: 525px;
+  transform: translateY(-150px);
+}
+section#story .wrap .story-atc .story-led a {
+  
+}
+section#story .wrap .story-atc .story-led a img { 
+  width: 433px;
+  height: 340px;
+}
+section#story .wrap .story-atc .story-led a h3 {
+  
+}
+section#story .wrap .story-atc .story-led a p {
+  
+}

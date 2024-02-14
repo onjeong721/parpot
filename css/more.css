@@ -1,0 +1,36 @@
+section#parpot-more {
+  
+}
+section#parpot-more .more {
+  
+}
+section#parpot-more .more .more-txt {  
+  gap: 50px;
+  width: 600px;
+  height: 329px;
+}
+section#parpot-more .more .more-txt h2 {
+  
+}
+section#parpot-more .more .more-txt h3 {
+  
+}
+section#parpot-more .more .more-txt p {  
+  padding-bottom: 30px;
+}
+section#parpot-more .more .more-txt a {  
+  font-size: 15px;
+  display: block;
+}
+section#parpot-more .more .more-txt a::after{
+  content: "";
+  background-image: url(../img/arrow2.png);
+  display: inline-block;
+  width: 76px;
+  height: 64px;
+  transform: translate(15px, 25px);
+}
+section#parpot-more .more img {
+  
+  transform: translateX(175.5px);
+}
