@@ -1,5 +1,5 @@
-# 이름
-<img src="" width="80%" height="auto"/>
+# parpot 
+<img src="https://github.com/onjeong721/parpot/assets/150096277/92502fcf-af03-4d43-b8ce-0d3b25ec7862" width="80%" height="auto"/>
 
 ## 프로젝트 소개
  * 사이트 주소
